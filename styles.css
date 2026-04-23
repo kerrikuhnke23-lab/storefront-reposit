@@ -74,3 +74,6 @@ tfoot {
     font-style: italic;
     border-top: 2px solid #ccc;
 }
+footer {
+    text-align: center;
+}
