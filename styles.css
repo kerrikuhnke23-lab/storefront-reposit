@@ -21,6 +21,10 @@ section {
 }
 
 /* Navigation Styling */
+nav {
+    max-width: 960px;
+    margin: 0 auto 20px auto;
+}
 nav ul {
     display: flex;
     justify-content: center;
